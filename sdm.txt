@@ -1,0 +1,32 @@
+GIT HUb...................
+
+git hub login and creater reposit...
+
+create folder in d drive and paste webapp
+
+in d drive cmd
+git clone paste reposit path
+  d drive reposit folder cmd
+ git status 
+ git add .
+ git commit -m "abc"
+git push
+
+
+
+using putty......................
+
+ip address paste 
+data ubuntu
+data->authi-> brows ppk file
+
+sudo apt install
+sudo apt-get update
+sudo apt install docker.io
+git clone reposit path paste here
+ls
+cd reposit_name/
+sudo docker build -t image_name .
+sudo docker images
+sudo docker run -d -p portnumber:portnumber image_name
+sudo docker ps
